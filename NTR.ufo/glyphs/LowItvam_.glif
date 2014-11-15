@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LowItvam" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="121" y="-516" type="line" name="hr00"/>
+      <point x="523" y="-516" type="line"/>
+      <point x="523" y="-425" type="line"/>
+      <point x="121" y="-425" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-516" width="91" />
+      <vstem pos="121" width="402" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

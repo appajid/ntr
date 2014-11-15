@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>VaOttu</key>
+  <dict>
+    <key>VaEE</key>
+    <integer>-5</integer>
+  </dict>
+  <key>PaOttu</key>
+  <dict>
+    <key>RMatra</key>
+    <integer>76</integer>
+  </dict>
+  <key>Kaottu</key>
+  <dict>
+    <key>RMatra</key>
+    <integer>28</integer>
+  </dict>
+  <key>Ta</key>
+  <dict>
+    <key>VaOttu</key>
+    <integer>71</integer>
+  </dict>
+</dict>
+</plist>
