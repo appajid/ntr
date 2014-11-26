@@ -214,7 +214,6 @@
     <hintset pointTag="hr00">
       <hstem pos="-14" width="67" />
       <hstem pos="-9" width="70" />
-      <hstem pos="16" width="-21" />
       <hstem pos="284" width="67" />
       <hstem pos="378" width="57" />
       <vstem pos="30" width="69" />

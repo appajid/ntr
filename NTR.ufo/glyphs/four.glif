@@ -90,7 +90,6 @@
   <data>
   <hintSetList>
     <hintset pointTag="hr00">
-      <hstem pos="16" width="-21" />
       <hstem pos="129" width="62" />
       <vstem pos="360" width="95" />
       <vstem pos="368" width="99" />

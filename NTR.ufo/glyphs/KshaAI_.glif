@@ -503,16 +503,14 @@
       <hstem pos="-230" width="69" />
       <hstem pos="-126" width="76" />
       <hstem pos="-12" width="63" />
-      <hstem pos="-5" width="20" />
-      <hstem pos="-5" width="56" />
       <hstem pos="186" width="55" />
       <hstem pos="366" width="59" />
       <hstem pos="554" width="72" />
       <hstem pos="573" width="70" />
       <vstem pos="0" width="65" />
       <vstem pos="21" width="62" />
-      <vstem pos="96" width="69" />
       <vstem pos="96" width="43" />
+      <vstem pos="96" width="69" />
       <vstem pos="164" width="52" />
       <vstem pos="175" width="62" />
       <vstem pos="408" width="58" />

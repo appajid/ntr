@@ -284,18 +284,14 @@
   <hintSetList>
     <hintset pointTag="hr00">
       <hstem pos="-7" width="66" />
-      <hstem pos="14" width="-21" />
       <hstem pos="-2" width="71" />
       <hstem pos="133" width="55" />
       <hstem pos="215" width="53" />
       <hstem pos="358" width="55" />
       <hstem pos="366" width="59" />
       <hstem pos="389" width="62" />
-      <hstem pos="539" width="74" />
       <hstem pos="539" width="71" />
-      <hstem pos="545" width="68" />
       <hstem pos="559" width="66" />
-      <hstem pos="559" width="54" />
       <vstem pos="30" width="69" />
       <vstem pos="55" width="69" />
       <vstem pos="174" width="52" />
